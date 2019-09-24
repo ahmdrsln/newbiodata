@@ -32,8 +32,6 @@
           <ul class="probootstrap-main-nav">
             <li class="active"><a href="index.html">Home</a></li>
             <li><a href="programs.html">Pengalaman PKL</a></li>
-            <li><a href="gallery.html">Gallery</a></li>
-            <li><a href="about.html">Tentang saya</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>
           <ul class="probootstrap-header-social hidden-xs">
@@ -191,7 +189,6 @@
             <ul class="probootstrap-footer-link float">
               <li><a href="#">Home</a></li>
               <li><a href="#">Pengalaman PKL</a></li>
-              <li><a href="#">Gallery</a></li>
             </ul>
             <ul class="probootstrap-footer-link float">
               <li><a href="#">About Me</a></li>

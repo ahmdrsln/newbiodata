@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/we', function () {
+Route::get('/index.html', function () {
     return view('halamanbaru');
 });
